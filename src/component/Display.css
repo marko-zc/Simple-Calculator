@@ -1,0 +1,10 @@
+.display {
+    background-color: #262523;
+    color: green;
+    width: 82vw;
+    height: 14vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 115px;
+    text-align: center;
+    border: 2px solid black;
+}
