@@ -5,7 +5,7 @@ A simple calculator made with React.
  https://marko-zc.github.io/Simple-Calculator/
  
 ## Made with:
-- HTML
+- HTML (JSX)
 - CSS
 - Javascript
 - React
