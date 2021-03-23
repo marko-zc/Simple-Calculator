@@ -3,7 +3,7 @@ import operate from './operate';
 import isNumber from './isNumber';
 
 function calculate(obj, buttonName) {
-    if (buttonName === "Clear") {
+    if (buttonName === "C") {
         return {
           total: null,
           next: null,

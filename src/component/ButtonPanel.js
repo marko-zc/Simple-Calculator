@@ -18,7 +18,7 @@ class ButtonPanel extends React.Component
         return (
         <div>
             <div className='clear'>
-                <Button name='Clear' clickHandler={this.handleClick} />
+                <Button name='C' clickHandler={this.handleClick} />
             </div>
 
 

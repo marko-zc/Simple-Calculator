@@ -7,4 +7,13 @@
     font-size: 115px;
     text-align: center;
     border: 2px solid black;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 768px) {
+    .display {
+        width: 74vw;
+        height: 10vh;
+        font-size: 80px;
+    }
 }
